@@ -2,8 +2,8 @@
 ## Exception Handling, Resource Safety & Multithreading
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
+- **Name:** C.Sai Jashwanth reddy
+- **Register Number:** 192472142
 - **Department:** Computer Science and Engineering
 
 ### Development Environment
@@ -86,5 +86,5 @@ Screenshots of the program executions and terminal outputs are maintained in the
 This assignment provided practical engineering experience in building fault-tolerant, resource-safe, and thread-safe Java applications using Visual Studio Code.
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** C.Sai Jashwanth reddy 
+**Register Number:** 192472142
